@@ -8,6 +8,17 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+h1 {
+    color: green;
+}
+
+a {
+    background-color: green;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+}
+
 
 /* Style the header */
 
@@ -16,26 +27,6 @@ body {
     padding: 30px;
     text-align: center;
     font-size: 35px;
-}
-
-
-/* Container for flexboxes */
-
-.row {
-    display: -webkit-flex;
-    display: flex;
-}
-
-
-/* Create three equal columns that sits next to each other */
-
-.column {
-    -webkit-flex: 1;
-    -ms-flex: 1;
-    flex: 1;
-    padding: 10px;
-    height: 300px;
-    /* Should be removed. Only for demonstration */
 }
 
 
