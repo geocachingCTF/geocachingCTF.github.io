@@ -6,4 +6,4 @@ If you discover any bugs or have comments, please sign up for a free GitHub acco
 
 Thanks for participating in geocachingCTF!
 
--BFPRick
+-CyberQueenMeg
